@@ -1,0 +1,41 @@
+1.Clock angle problem — Find angle between hour and minute hand
+
+Clock Angle Problem: Given time in hh:mm format in 24-hour notation, calculate the shorter angle between the hour and minute hand in an analog clock.
+For example,
+Input:  5:30
+Output: 15°
+ 
+ 
+Input:  21:00
+Output: 90°
+ 
+ 
+Input:  12:00
+Output: 0°
+ 
+Please note that hh:60 should be considered as (hh+1):0
+
+
+----------------------------------------------------------------------
+
+2.Add two numbers without using addition operator 
+
+----------------------------------------------------------------------
+
+3.Implement power function without using multiplication and division operators
+
+Given two positive integers, implement the power function without using multiplication and division operators.
+For example, for given two integers, x and y, pow(x, y) should return x raised to the power of y, i.e., xy.
+
+
+----------------------------------------------------------------------
+
+4.Swap two numbers without using third variable
+
+----------------------------------------------------------------------
+
+5.Generate 0 and 1 with 75% and 25% Probability
+
+----------------------------------------------------------------------
+
+6.Find if a number is even or odd without using any conditional statement
