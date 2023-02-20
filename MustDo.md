@@ -1,5 +1,5 @@
 
-## 500+ Data Structures and Algorithms practice problems
+## Structures practice problems
 
 ### Array
 
@@ -1431,66 +1431,4 @@
 
 [7.Single-Source Shortest Paths — Dijkstra’s Algorithm](http://www.techiedelight.com/single-source-shortest-paths-dijkstras-algorithm/)
 
-
-### Puzzles
-
-[1.Clock angle problem — Find angle between hour and minute hand](http://www.techiedelight.com/angle-between-hour-minute-hand/)
-
-[2.Add two numbers without using addition operator | 4 methods](http://www.techiedelight.com/add-two-numbers-without-using-addition-operator/)
-
-[3.Generate power set of a given set](http://www.techiedelight.com/generate-power-set-given-set/)
-
-[4.Implement power function without using multiplication and division operators](http://www.techiedelight.com/implement-power-function-without-using-multiplication-division-operators/)
-
-[5.Print all numbers between 1 to N without using semicolon](http://www.techiedelight.com/print-numbers-1-n-without-using-semicolon/)
-
-[6.Swap two numbers without using third variable | 5 methods](http://www.techiedelight.com/swap-two-numbers-without-using-third-variable/)
-
-[7.Determine the if condition to print specific output](http://www.techiedelight.com/determine-condition-to-print-specific-output/)
-
-[8.Find maximum, minimum of three numbers without using conditional statement and ternary operator | 4 methods](http://www.techiedelight.com/maximum-minimum-three-numbers-without-using-conditional-statement-ternary-operator/)
-
-[9.Find numbers represented as sum of two cubes for two different pairs](http://www.techiedelight.com/numbers-represented-as-sum-of-two-cubes/)
-
-[10.Print “Hello World” with empty main() function | 3 methods](http://www.techiedelight.com/print-hello-world-empty-main-function/)
-
-[11.Tower of Hanoi Problem](http://www.techiedelight.com/tower-of-hanoi-problem/)
-
-[12.Print all numbers between 1 to N without using any loop | 4 methods](http://www.techiedelight.com/print-numbers-1-n-without-using-loop-4-methods/)
-
-[13.Print a semicolon without using semicolon anywhere in the program](http://www.techiedelight.com/print-a-semicolon-without-using-semicolon-anywhere-program/)
-
-[14.Multiply two numbers without using multiplication operator or loops](http://www.techiedelight.com/multiply-two-numbers-without-using-multiplication-operator-loops/)
-
-[15.Find square of a number without using multiplication and division operator | 3 methods](http://www.techiedelight.com/find-square-number-without-using-multiplication-division-operator/)
-
-[16.Find if a number is even or odd without using any conditional statement](http://www.techiedelight.com/find-number-even-odd-without-using-conditional-statement/)
-
-[17.Set both elements of a binary array to 0 in single line](http://www.techiedelight.com/set-elements-binary-array-0-single-line/)
-
-[18.Find minimum number without using conditional statement or ternary operator](http://www.techiedelight.com/find-minimum-number-without-using-conditional-statement-ternary-operator/)
-
-[19.Perform Division of two numbers without using division operator (/)](http://www.techiedelight.com/perform-division-two-numbers-without-using-division-operator/)
-
-[20.Generate 0 and 1 with 75% and 25% Probability](http://www.techiedelight.com/generate-0-1-75-25-probability/)
-
-[21.Generate Desired Random Numbers With Equal Probability](http://www.techiedelight.com/generate-random-numbers-equal-probability/)
-
-[22.Return 0, 1 and 2 with equal Probability using the specified function](http://www.techiedelight.com/return-0-1-2-equal-probability-using-specified-function/)
-
-[23.Generate Fair Results from a Biased Coin](http://www.techiedelight.com/generate-fair-results-biased-coin/)
-
-[24.Generate numbers from 1 to 7 with equal probability using specified function](http://www.techiedelight.com/generate-numbers-1-7-equal-probability/)
-
-[25.Implement Ternary Operator Without Using Conditional Expressions](http://www.techiedelight.com/implement-ternary-operator-without-using-conditional-statements/)
-
-[26.Determine if two integers are equal without using comparison and arithmetic operators](http://www.techiedelight.com/determine-two-integers-equal-without-using-comparison-arithmetic-operators/)
-
-[27.Return 0 and 1 with equal Probability using the specified function](http://www.techiedelight.com/get-0-1-equal-probability-using-specified-function/)
-
-[28.Generate Random Input from an Array according to given Probabilities](http://www.techiedelight.com/generate-random-input-array-according-given-probabilities/)
-
-[29.Generate Fair Results from a Biased Coin](http://www.techiedelight.com/generate-fair-results-biased-coin/)
-
-[30.Magnet Puzzle](http://www.techiedelight.com/magnet-puzzle/)
 
